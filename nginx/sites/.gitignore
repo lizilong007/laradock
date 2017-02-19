@@ -1,2 +1,4 @@
 *.conf
 !default.conf
+!getyii.conf
+!phphub5.conf
